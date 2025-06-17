@@ -7,4 +7,11 @@ Após a IA utilizar a TOOL a informação obtida é organizada e apresentada de 
 
 Abaixo segue uma imagem que demonstra o funcionamento de Tool (imagem da documentação do SpringAi)
 ![image](https://github.com/user-attachments/assets/ff69a702-397c-4e91-9673-78253100c9a5)
+
 https://docs.spring.io/spring-ai/reference/api/tools.html
+
+Esse projeto visa fornecer informações de investimentos em tempo real com base na minha carteira de investimento e informações em tempo real destes investimentos através de uma API.
+
+Neste projeto foi utilizado o Tool para fornecer as seguintes informações para a IA:
+- Fornecer a consulta de minha carteira de investimentos a IA (tais informações estão em base)
+- Fornecer para a IA a API da Twelvedata para consultar em tempo real as informações das minhas carteiras de investimento  (https://twelvedata.com/)
